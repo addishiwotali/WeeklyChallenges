@@ -116,6 +116,8 @@ namespace ChallengesWithTestsMark8
                 result.Add(elements[i]);
             }
 
+            
+            
             return result.ToArray();
         }
         
